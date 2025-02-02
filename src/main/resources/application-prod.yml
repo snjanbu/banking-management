@@ -1,0 +1,7 @@
+swagger:
+ server-url: "https://banking-management.sanjayanbu.in"
+spring:
+  datasource:
+    username: root
+    url: jdbc:mysql://localhost:3306/banking_management
+    password: 'M2l4OqMvc6PngsG@'
