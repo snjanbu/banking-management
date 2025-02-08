@@ -2,6 +2,6 @@ swagger:
  server-url: "https://banking-management.sanjayanbu.in"
 spring:
   datasource:
-    username: root
-    url: jdbc:mysql://localhost:3306/banking_management
+    username: external_user
+    url: jdbc:mysql://13.232.209.43:3306/banking_management
     password: 'M2l4OqMvc6PngsG@'
